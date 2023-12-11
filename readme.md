@@ -8,7 +8,7 @@ Embark on an enriching journey where you'll unearth a wealth of knowledge and in
 
 Your pursuit of knowledge is as unique as the way you navigate this repository:
 
-- 🗂️ Weekly Wisdom: Each week represents a new chapter in our collective learning journey. Explore the 'Week' directories to find the valuable learnings from each session.
+- 🎒 Weekly Wisdom: Each week represents a new chapter in our collective learning journey. Explore the 'Week' directories to find the valuable learnings from each session.
 - 📚 Session Sorting: We've organized the sessions within each week like a well-curated library. Whether it's theory, practical, or something uniquely enlightening, everything is sorted for easy access.
 - 🌟 Foundational Sessions Spotlight: Our Foundational Sessions are given a place of prominence with their dedicated directory, allowing for effortless location and review, this is because we lay out some of the weekly objectives within so you can study ahead if you feel curious.
 
