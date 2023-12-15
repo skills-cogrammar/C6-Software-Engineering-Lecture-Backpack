@@ -8,14 +8,16 @@
 # else:
 #     print("Hold on tiger!")
 
-my_string = "HelloWorld"
+# if not age >= 18:
+#     print("Hold on tiger!")
 
-# if ' ' in my_string:
-#     print("String contains a space")
-# else:
-#     print("String does not contain a space")
+full_name = "Johny Bean"
 
-if not 'Hi' in my_string:
-    print("String does not contain Hi")
+if not ' ' in full_name:
+    print("You did not enter your full name")
+    # Logic to enter full_name again
 
-print("-- Continue with code logic")
+# if not 'Hi' in my_string:
+#     print("String does not contain Hi")
+
+# print("-- Continue with code logic")
