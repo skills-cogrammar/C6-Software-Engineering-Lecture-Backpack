@@ -53,20 +53,20 @@ else I continue work and go to bed
 # snack_option = input("Would you like a crisp or chocolate ? enter CR-Crips : CH-Choco")
 
 # IF ELIF STATEMENT
-# if snack_option == "CR":
-#     print("You have chosen crisps")
-# elif snack_option == "CH":
-#     print("You have chosen Chocolate")
-# else:
-#     print("You have entered an invalid option, please try again")
-
-# student_grade = int(input("Enter your grade: "))
+if snack_option == "CR":
+    print("You have chosen crisps")
+elif snack_option == "CH":
+    print("You have chosen Chocolate")
+else:
+    print("You have entered an invalid option, please try again")
 
 # NESTED STATEMENTS
-# if student_grade > 50:
-#     if student_grade > 75:
-#         print("You passed with distinctions")
-#     else:
-#         print("You passed, but you can do better!")
-# else:
-#     print("You failed but this is a learning milestone")
+student_grade = int(input("Enter your grade: "))
+
+if student_grade > 50:
+    if student_grade > 75:
+         print("You passed with distinctions")
+    else:
+         print("You passed, but you can do better!")
+else:
+     print("You failed but this is a learning milestone")
