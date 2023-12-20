@@ -44,8 +44,8 @@
 #     print(f"format 2: {fruit}")
 
 #0 - fruit = "apple"
-#0 - fruit = "banana"
-#0 - fruit = "cherry"
+#1 - fruit = "banana"
+#2 - fruit = "cherry"
     
 # Format 3: Iterate over elements while tracking iteration (enumerate)
 print("my print")
