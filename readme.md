@@ -10,8 +10,8 @@ Your pursuit of knowledge is as unique as the way you navigate this repository:
 
 - 🎒 Weekly Wisdom: Each week represents a new chapter in our collective learning journey. Explore the 'Week' directories to find the valuable learnings from each session.
 - 📚 Session Sorting: We've organized the sessions within each week like a well-curated library. Whether it's theory, practical, or something uniquely enlightening, everything is sorted for easy access.
-- 🌟 Foundational Sessions Spotlight: Our Foundational Sessions are given a place of prominence with their dedicated directory, allowing for effortless location and review, this is because we lay out some of the weekly objectives within so you can study ahead if you feel curious.
+- 🌟 Foundational Sessions and Tech Talks Spotlight: Our Foundational Sessions and Tech Talks are given a place of prominence with their dedicated directory, allowing for effortless location and review, this is because we lay out some of the weekly objectives within so you can study ahead if you feel curious.
 
 ## Example: Finding Your Path
 
-Imagine you want to revisit the theoretical insights from Week 2. Simply navigate to the 'Week 2' directory, where you'll discover a 'Theory and Practical' folder filled with valuable knowledge from that session. Moreover, the 'Foundational Sessions' directory features a 'Week 2' folder, offering additional lecture materials for deeper study.
+Imagine you want to revisit the theoretical insights from Week 2. Simply navigate to the 'Week 2' directory, where you'll discover a 'Theory and Practical' folder filled with valuable knowledge from that session. Moreover, the 'Foundational Sessions' directory features its own folders, offering additional lecture materials for deeper study.
