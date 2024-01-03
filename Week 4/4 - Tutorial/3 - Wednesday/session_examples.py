@@ -68,11 +68,11 @@
 # print(f"Updated Numbers: {list_of_smort_numbers}")
 
 # Exercise - debug this
-# Ex 1
+# Ex 1 - values should be incremented by 1 - Output: [13, 24, 35, 46, 57]
 list_of_smort_numbers = [12, 23, 34, 45, 56]
 
 for i in range(len(list_of_smort_numbers)):
-    list_of_smort_numbers[i] += 1
+    list_of_smort_numbers[i] += i
 
 print(f"Updated Numbers: {list_of_smort_numbers}")
 
