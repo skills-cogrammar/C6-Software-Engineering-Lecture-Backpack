@@ -6,7 +6,7 @@ from sympy import symbols, diff, sin, cos, exp, log
 x = symbols('x')
 
 # 1. Constant Rule: The derivative of a constant is 0
-constant = 5
+constant = 1980
 constant_derivative = diff(constant, x)
 print(f"Constant Rule: derivative of {constant} is {constant_derivative}")
 
